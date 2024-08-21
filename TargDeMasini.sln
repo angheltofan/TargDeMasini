@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TargDeMasini", "TargDeMasini.csproj", "{468DE613-4B4F-4A58-9A11-625F403294AE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TargDeMasiniWinForms", "..\TargDeMasiniWinForms\TargDeMasiniWinForms.csproj", "{3BA27371-6C4A-48E9-A373-05A84908EC75}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{468DE613-4B4F-4A58-9A11-625F403294AE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{468DE613-4B4F-4A58-9A11-625F403294AE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{468DE613-4B4F-4A58-9A11-625F403294AE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{468DE613-4B4F-4A58-9A11-625F403294AE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3BA27371-6C4A-48E9-A373-05A84908EC75}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3BA27371-6C4A-48E9-A373-05A84908EC75}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3BA27371-6C4A-48E9-A373-05A84908EC75}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3BA27371-6C4A-48E9-A373-05A84908EC75}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7159D483-8797-42AA-AE5D-A3555BE2B2A3}
+	EndGlobalSection
+EndGlobal
